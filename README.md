@@ -1,4 +1,4 @@
-**StudioChew/StudioChew** is a ✨ _stupid_ ✨ repository because its `README.md` (this file) appears on your GutHib profile.
+**jornmann/jornmann** is a ✨ _stupid_ ✨ repository because its `README.md` (this file) appears on your GutHib profile.
 
 Here are some ideas to get you started:
 
