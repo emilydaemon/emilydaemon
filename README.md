@@ -1,6 +1,6 @@
-# I DON'T USE GITHUB ANYMORE
-..well, that's not entirely true.
+# helscome to my git's hub, bubs
+my personal world wide wed site: https://donut.eu.org/
+my gitea instance: https://git.donut.eu.org/
 
-I still use this account to contribute to repositories that are on GitHub.
-
-For my current git repositories, see [this website](https://git.donut.eu.org/). :)
+## what I do
+wii stuffs for the most part as of recently. 'sfun, you should give it a try.
